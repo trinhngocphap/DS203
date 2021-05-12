@@ -1,7 +1,7 @@
 mode: term
-base_path: /content/MAMS-for-ABSA/data/MAMS-ATSA
+base_path: /content/DS203/data/MAMS-ATSA
 glove_path: /content/drive/MyDrive/glove.840B.300d.txt
-sentiment_path: /content/MAMS-for-ABSA/data/sentiment_dict.json
+sentiment_path: /content/DS203/data/sentiment_dict.json
 lowercase: True
 max_vocab_size: None
 min_vocab_freq: 0
